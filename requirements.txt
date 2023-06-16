@@ -1,3 +1,5 @@
 openai
 langchain
 requests
+os
+nbformat
